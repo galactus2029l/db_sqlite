@@ -1,0 +1,18 @@
+sqlite>  INSERT INTO months (month) VALUES
+('January'),
+('February'),
+('March'),
+('April'),
+('May'),
+('June'),
+('July'),
+('August'),
+('September'),
+('October'),
+('November'),
+('December')
+;
+insert into years (year) values 
+(2026),
+(2027)
+;
